@@ -1,1 +1,4 @@
-theme = Catppuccin Frappe
+theme = One Half Dark
+keybind = ctrl+shift+r=new_split:right
+keybind = ctrl+shift+d=new_split:down
+keybind = ctrl+shift+e=close_surface
