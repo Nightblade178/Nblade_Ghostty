@@ -3,7 +3,7 @@ font-family = "Fira Code SemiBold"
 theme = One Half Dark
 
 # Prompt
-# NOT WORKING keybind = ctrl+shift+n=jump_to_prompt:1
+keybind = ctrl+shift+u=jump_to_prompt:1
 keybind = ctrl+shift+i=jump_to_prompt:-1
 keybind = ctrl+shift+o=inspector:toggle
 
