@@ -18,8 +18,8 @@ keybind = ctrl+shift+k=goto_split:up
 keybind = ctrl+shift+l=goto_split:right
 
 # Split
-keybind = ctrl+shift+{=goto_split:next
-keybind = ctrl+shift+}=goto_split:previous
+keybind = ctrl+shift+}=goto_split:next
+keybind = ctrl+shift+{=goto_split:previous
 
 #Tab
 keybind = ctrl+shift+:=previous_tab
