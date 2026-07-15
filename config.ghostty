@@ -22,8 +22,8 @@ keybind = ctrl+shift+{=goto_split:next
 keybind = ctrl+shift+}=goto_split:previous
 
 #Tab
-keybind = ctrl+shift+"=previous_tab
-keybind = ctrl+shift+:=next_tab
+keybind = ctrl+shift+:=previous_tab
+keybind = ctrl+shift+"=next_tab
 
 #Resize
 keybind = ctrl+shift+arrow_right=resize_split:right,10
