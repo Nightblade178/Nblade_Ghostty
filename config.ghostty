@@ -36,5 +36,5 @@ keybind = ctrl+shift+f=scroll_page_down
 keybind = ctrl+shift+b=scroll_page_up
 
 # Search
-keybind = ctrl+f=start_search
+keybind = ctrl+alt+f=start_search
 
