@@ -1,5 +1,9 @@
+# theme
 font-family = "Fira Code SemiBold" 
 theme = One Half Dark
+
+
+# Panes
 keybind = ctrl+shift+r=new_split:right
 keybind = ctrl+shift+d=new_split:down
 keybind = ctrl+shift+e=close_surface
@@ -25,3 +29,8 @@ keybind = ctrl+shift+arrow_right=resize_split:right,10
 keybind = ctrl+shift+arrow_left=resize_split:left,10
 keybind = ctrl+shift+arrow_up=resize_split:up,10
 keybind = ctrl+shift+arrow_down=resize_split:down,10
+
+#Page Scroll
+keybind = ctrl+f=scroll_page_down
+keybind = ctrl+b=scroll_page_up
+
