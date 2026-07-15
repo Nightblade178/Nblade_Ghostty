@@ -21,20 +21,20 @@ keybind = ctrl+shift+l=goto_split:right
 keybind = ctrl+shift+}=goto_split:next
 keybind = ctrl+shift+{=goto_split:previous
 
-#Tab
+# Tab
 keybind = ctrl+shift+:=previous_tab
 keybind = ctrl+shift+"=next_tab
 
-#Resize
+# Resize
 keybind = ctrl+shift+arrow_right=resize_split:right,10
 keybind = ctrl+shift+arrow_left=resize_split:left,10
 keybind = ctrl+shift+arrow_up=resize_split:up,10
 keybind = ctrl+shift+arrow_down=resize_split:down,10
 
-#Page Scroll
+# Page Scroll
 keybind = ctrl+shift+f=scroll_page_down
 keybind = ctrl+shift+b=scroll_page_up
 
-#Search
+# Search
 keybind = ctrl+f=start_search
 
