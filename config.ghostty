@@ -1,6 +1,7 @@
 # theme
 font-family = "Fira Code SemiBold" 
 theme = One Half Dark
+#theme = Catppuccin Mocha
 
 # Prompt
 keybind = ctrl+shift+u=jump_to_prompt:1
@@ -37,4 +38,3 @@ keybind = ctrl+shift+b=scroll_page_up
 
 # Search
 keybind = ctrl+alt+f=start_search
-
