@@ -23,6 +23,9 @@ keybind = ctrl+shift+h=goto_split:left
 keybind = ctrl+shift+k=goto_split:up
 keybind = ctrl+shift+l=goto_split:right
 
+# Jump to top or bottom
+keybind = ctrl+shift+home=scroll_to_top
+keybind = ctrl+shift+end=scroll_to_bottom
 # Split
 keybind = ctrl+shift+}=goto_split:next
 keybind = ctrl+shift+{=goto_split:previous
