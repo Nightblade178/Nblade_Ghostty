@@ -49,3 +49,6 @@ keybind = ctrl+alt+f=start_search
 
 # Maximize on launch
 maximize = true
+
+# Ghostty ctrl+, keybind to open nvim
+keybind = ctrl+,=text:ghostty +edit-config\n
