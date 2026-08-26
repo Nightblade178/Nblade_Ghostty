@@ -6,7 +6,7 @@ theme = One Half Dark
 font-family = "CaskaydiaCove Nerd Font"
 #font-family = "Fira Code"
 #font-style = "SemiBold"
-font-size = 11
+font-size = 12
 
 # Prompt
 keybind = ctrl+shift+u=jump_to_prompt:1
@@ -27,12 +27,12 @@ keybind = ctrl+shift+l=goto_split:right
 keybind = ctrl+shift+home=scroll_to_top
 keybind = ctrl+shift+end=scroll_to_bottom
 # Split
-keybind = ctrl+shift+}=goto_split:next
-keybind = ctrl+shift+{=goto_split:previous
+keybind = ctrl+shift+:=goto_split:next
+keybind = ctrl+shift+"=goto_split:previous
 
 # Tab
-keybind = ctrl+shift+:=previous_tab
-keybind = ctrl+shift+"=next_tab
+keybind = ctrl+shift+{=previous_tab
+keybind = ctrl+shift+}=next_tab
 
 # Resize
 keybind = ctrl+shift+arrow_right=resize_split:right,10
