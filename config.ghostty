@@ -2,6 +2,9 @@
 theme = One Half Dark
 #theme = Catppuccin Mocha
 
+# scrollback-limit 100 MB
+scrollback-limit = 100000000
+
 #font
 font-family = "CaskaydiaCove Nerd Font"
 #font-family = "Fira Code"
@@ -26,6 +29,7 @@ keybind = ctrl+shift+l=goto_split:right
 # Jump to top or bottom
 keybind = ctrl+shift+home=scroll_to_top
 keybind = ctrl+shift+end=scroll_to_bottom
+#
 # Split
 keybind = ctrl+shift+:=goto_split:next
 keybind = ctrl+shift+"=goto_split:previous
