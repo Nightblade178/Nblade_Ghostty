@@ -68,4 +68,4 @@ maximize = true
 keybind = ctrl+,=text:ghostty +edit-config\n
 
 # SSH Fix
-shell-integration-features = cursor,no-sudo,title,ssh-env,ssh-terminfo,path
+shell-integration-features = cursor,sudo,title,ssh-env,ssh-terminfo,path
