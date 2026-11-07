@@ -4,3 +4,6 @@ This is my own personalised Ghostty Config. I want to keep the keybinds intuitiv
 Use Ghostty-Launch to deactivate the GTK's  input-method framework. It conflicts with Ctrl+Shift+u.
 
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/06bf210c-d5ec-45a8-a051-d271a3e317d9" />
+
+
+Shaders from [sahaj-b](https://github.com/sahaj-b/cursor-shaders/tree/main/ghostty)
