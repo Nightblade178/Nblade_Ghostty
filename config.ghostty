@@ -6,8 +6,8 @@ theme = One Half Dark
 scrollback-limit = 100000000
 
 # Shader
-#custom-shader = ~/.config/ghostty/shaders/cursor_sweep.glsl
-#custom-shader-animation = always
+custom-shader = ~/.config/ghostty/shaders/cursor_sweep.glsl
+custom-shader-animation = always
 
 #font
 font-family = "CaskaydiaCove NF SemiBold"
@@ -47,7 +47,8 @@ keybind = shift+alt+j=previous_tab
 keybind = shift+alt+k=next_tab
 
 # Fullscreen
-keybind = ctrl+shift+enter=toggle_fullscreen
+keybind = ctrl+shift+enter=toggle_split_zoom
+keybind = ctrl+alt+shift+enter=toggle_fullscreen
 
 # Resize
 keybind = ctrl+shift+arrow_right=resize_split:right,10
